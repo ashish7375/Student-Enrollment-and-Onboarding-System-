@@ -4,4 +4,4 @@
 
 -This repository contains a PDF showcasing the Salesforce Lightning app for student enrollment and onboarding system.
 
--You can view and download the PDF ().
+-You can view and download the PDF [https://github.com/ashish7375/Student-Enrollment-and-Onboarding-System-/blob/main/Student%20Enrollment%20and%20Onboarding%20System.pdf].
